@@ -18,6 +18,7 @@
 
 
 ## Demonstration
+- [Algorithm Visualizer](https://www.cs.usfca.edu/~galles/visualization/HeapSort.html)
 - [Algorithm Visualizer](https://algorithm-visualizer.org/brute-force/heapsort)
 
 
