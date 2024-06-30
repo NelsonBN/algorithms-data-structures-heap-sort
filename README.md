@@ -6,7 +6,9 @@
     - Best: Ω(n log(n))
     - Average: Θ(n log(n))
     - Worst: O(n log(n))
-- Space complexity: O(1)
+- Space complexity:
+  - Recursive: O(log(n))
+  - Iterative: O(1)
 - In-place
 - Unstable
 
