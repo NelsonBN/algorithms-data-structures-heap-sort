@@ -9,7 +9,7 @@ def heap_sort(arr):
         if arr[largest] < arr[left]:
             largest = left
 
-        right = 2 * i + 2
+        right = left + 1
         if right < n and arr[largest] < arr[right]:
             largest = right
 
